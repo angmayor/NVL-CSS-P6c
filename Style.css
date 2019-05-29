@@ -1,0 +1,21 @@
+.titulo {
+	color: #00CC33;
+} 
+
+.piedepagina{
+	background-color: #FF0000;
+	color: #FAFAFA;
+	padding-left: 800px;
+	width: 525px
+}
+
+.piedepaginaimagen{
+	float: right;
+	border: 50%;
+	height: auto;
+	margin:auto;
+}
+.logonombre{
+	border: 50%;
+	float: right;
+}
